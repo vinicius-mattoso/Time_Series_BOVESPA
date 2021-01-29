@@ -16,6 +16,7 @@
  [x] Analyze using a frequency of months;
 
  [x] Make the forecast for the first half of 2021;
+ 
 ---
 
 **OBJECTIVES:**
@@ -29,6 +30,7 @@
  [x] Learning more about PROPHET;
 
  [x] Predict the first half of 2021;
+ 
  ---
 
 **FUTURE STEPS:**
@@ -42,6 +44,7 @@
  [ ] External regressors;
 
  [ ] Predict the year of 2021;
+ 
  ---
 
 

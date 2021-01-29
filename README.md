@@ -2,6 +2,7 @@
  Project to study time series, with PROPHET
  
  **STEPS:**
+ 
 ---
  [x] Data collection through yahoo finance;
 
@@ -20,6 +21,7 @@
 ---
 
 **OBJECTIVES:**
+
 ---
  [x] Collect the data from the exchange;
 
@@ -34,6 +36,7 @@
  ---
 
 **FUTURE STEPS:**
+
 ---
  [ ] Studying algorithm tuning methods;
 

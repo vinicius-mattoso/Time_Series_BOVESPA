@@ -1,4 +1,4 @@
-![Welcome](/Tiem_Series_BOVESPA.png?raw=True)
+![Welcome](/Tiem_Series_BOVESPA_cover.png?raw=True)
 
 # Time_Series_BOVESPA
 

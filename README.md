@@ -1,4 +1,7 @@
+![Welcome](/Tiem_Series_BOVESPA_cover.png?raw=True)
+
 # Time_Series_BOVESPA
+
  Project to study time series, with PROPHET
  
  **STEPS:**
